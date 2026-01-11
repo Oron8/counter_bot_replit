@@ -8,7 +8,7 @@ from flask import Flask
 
 # ----------- CONFIG -----------
 
-TOKEN = "PEGA_TU_TOKEN_AQUI"
+TOKEN = "MTQ2MDAwNTg4MzkxMTM0NDE0MQ.G33r0w.Ouc1tmqIlglsM5WWbgkgRucSWuSsUP9Om-m0No"
 PORT = 8080
 
 # ----------- WEB (REPLIT) -----------
